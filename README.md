@@ -7,7 +7,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/NoobySloth"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.noobysloth.com/i/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/expandnetwork" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://cdn.noobysloth.com/i/kofi.png"/></a>
+  <a href="https://discord.gg/qrpx" alt="Discord" title="Discord Server"><img width="32px" src="https://cdn.noobysloth.com/i/kofi.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/NoobySloth"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://cdn.noobysloth.com/i/discord.png"/></a>
 </p>
